@@ -1,4 +1,4 @@
-# bounzee
+# federnd
 A caching DNS forwarder that randomizes the resolvers
 
 ## Why are you making this?
@@ -6,7 +6,7 @@ A caching DNS forwarder that randomizes the resolvers
 2. It's an excuse to learn rust. So yes, there will be mistakes. Please be kind.
 
 ## What is with the name?
-Other DNS servers have names like bind, unbound, knot. So I thought of "bouncy" as a play on them and the fact that it will bounce between different resolvers. But then I changed the spelling to "bounzee" in order to be unique as there are no other projects on github with this name.
+I thought of "bouncy" as aname as it will bounce between different resolvers. But there are a lot of projects already using that name. So I used the German translation as there weren't any github probjects with the name "federnd" and I also like how it has the traditional "d" for daemon suffix.
 
 ## Roadmap/Intended Features
 - [x] Pick a license
@@ -35,4 +35,4 @@ Other DNS servers have names like bind, unbound, knot. So I thought of "bouncy" 
   - [ ] bind to specific interface
   - [ ] never cache
   - [ ] override TTL
-
+ 
