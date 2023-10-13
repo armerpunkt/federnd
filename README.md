@@ -11,7 +11,7 @@ I thought of "bouncy" as aname as it will bounce between different resolvers. Bu
 ## Roadmap/Intended Features
 - [x] Pick a license
   * MPL 2.0 seems to a good compromise between GPL and MIT
-- [ ] Initialize project
+- [x] Initialize project
 - [ ] Read yaml config file
 - [ ] Basic DNS forwarding
 - [ ] Tell Firefox (and other browsers?) not to use DOH
